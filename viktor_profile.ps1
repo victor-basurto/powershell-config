@@ -1,3 +1,4 @@
+. "$HOME\.config\powershell\on_function.ps1"
 # Prompt
 Import-Module posh-git
 # Import-Module oh-my-posh
